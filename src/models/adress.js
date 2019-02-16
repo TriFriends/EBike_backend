@@ -1,26 +1,21 @@
 import mongoose from 'mongoose'
-const Schema = mongoose.Schema
+const { Schema } = mongoose
 
 const adressSchema = new Schema({
-    street: {
-        type: String,
-        required: true
-    },
     house_number: {
-        type: String,
-        required: true
+
     },
-    postal_code: {
-        type: String,
-        required: true
+    street: {
+
     },
     city: {
-        type: String,
-        required: true
+
+    },
+    postal_code: {
+
     },
     country: {
-        type: String,
-        required: true
+        
     }
 })
 

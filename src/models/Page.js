@@ -1,18 +1,18 @@
 import mongoose from 'mongoose'
-const Schema = mongoose.Schema
-import { seoUnitSchema } from './seoUnit'
+import { seoUnitSchema } from './seoUnit';
+const { Schema } = mongoose
 
-let pageSchema = new Schema({
+const pageSchema = new Schema({
     path: {
-        type: String
+
     },
-    sections: [{
-        type: String
-    }],
-    seo: seoUnitSchema
+    content: {
+
+    },
+    seoUnit: seoUnitSchema
 })
 
-let PageCollection = mongoose.model('Page', pageSchema)
+const PageCollection = mongoose.model('Category', pageSchema)
 
 export {
     PageCollection

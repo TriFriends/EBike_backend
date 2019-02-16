@@ -1,64 +1,29 @@
 import mongoose from 'mongoose'
-const Schema = mongoose.Schema
-import { adressSchema } from './adress'
-import { orderSchema } from './order'
-import bcrypt from 'bcryptjs'
+import { order } from './Order';
+import { adressSchema } from './adress';
+const { Schema } = mongoose
 
-let userSchema = new Schema({
-    identifier: {
-        unique: true,
-        type: String
+const userSchema = new Schema({
+    user_identifier: {
+
     },
     name: {
-        type: String,
-        maxlength: 25,
-        minlength: 1
+
     },
     lastname: {
-        type: String,
-        maxlength: 40,
-        minlength: 1
+
     },
-    password: {
-        type: String,
-        minlength: 6,
-        maxlength: 20
+    account_type: {
+
     },
     email: {
-        type: String,
-        maxlength: 30,
-        unique: true,
-        required: true
+
     },
     phone: {
-        type: String
+
     },
-    adresses: [adressSchema],
-    role: {
-        type: String,
-        required: true
-    },
-    orders: [orderSchema]
-})
-
-userSchema.pre("save", function (next) {
-    let user = this
-    this.identifier = mongoose.Types.ObjectId()
-
-    if (!user.isModified('password')) {
-        return next()
-    }
-
-    bcrypt.genSalt(10, (err, salt) => {
-        if (err) return next(err)
-
-        bcrypt.hash(user.password, salt, (err, encrypted) => {
-            if (err) return next(err)
-
-            user.password = encrypted
-            next()
-        })
-    })
+    orders: [order],
+    address: [adressSchema]
 })
 
 userSchema.methods.comparePassword = function (candidatePassword, cb) {
@@ -66,24 +31,30 @@ userSchema.methods.comparePassword = function (candidatePassword, cb) {
         if (err) return cb(err);
         cb(null, isMatch);
     });
-};
+}
 
-let UserCollection = mongoose.model('User', userSchema)
+userSchema.pre('save', function (next) {
+    const user = this
 
-const addUser = (user) => {
-    let newUser = new UserCollection(user)
-    return new Promise((resolve, reject) => {
-        newUser.save((err) => {
+    if (!user.isModified('password')) return next();
+
+    bcrypt.genSalt(3, (err, salt) => {
+        if (err) {
+            return next(err)
+        }
+        bcrypt.hash(user.password, salt, (err, hashed) => {
             if (err) {
-                reject(err)
+                return next(err)
             }
-            resolve()
+            user.password = hashed
+            next()
         })
     })
-}
+})
+
+
+const UserCollection = mongoose.model('Category', userSchema)
 
 export {
-    addUser,
     UserCollection
 }
-
