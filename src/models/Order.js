@@ -3,7 +3,12 @@ const { Schema } = mongoose
 import { adressSchema } from './adress'
 
 const itemSchema = new Schema({
-    product: {
+    product_identifier: {
+        type: String,
+        required: true,
+        trim: true
+    },
+    hero_image: {
         type: String,
         required: true
     },
@@ -20,11 +25,14 @@ const itemSchema = new Schema({
 const order = {
     order_identifier: {
         type: String,
-        required: true
+        required: true,
+        unique: true,
+        trim: true
     },
     status: {
         type: String,
-        required: true
+        required: true,
+        default: "Unpaid"
     },
     realize_date: {
         type: String,
@@ -34,17 +42,13 @@ const order = {
         type: Number,
         required: true
     },
-    hero_image: {
-        type: String,
-        required: true
-    },
     items: [itemSchema],
     adress: adressSchema
 }
 
 const orderSchema = new Schema(order)
 
-const OrderCollection = mongoose.model('Category', orderSchema)
+const OrderCollection = mongoose.model('Order', orderSchema)
 
 export {
     order,

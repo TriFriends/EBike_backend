@@ -6,7 +6,9 @@ const { Schema } = mongoose
 const userSchema = new Schema({
     user_identifier: {
         type: String,
-        required: true
+        required: true,
+        unique: true,
+        trim: true
     },
     name: {
         type: String,
@@ -18,7 +20,8 @@ const userSchema = new Schema({
     },
     account_type: {
         type: String,
-        required: true
+        required: true,
+        default: 'user'
     },
     email: {
         type: String,
@@ -59,7 +62,7 @@ userSchema.pre('save', function (next) {
 })
 
 
-const UserCollection = mongoose.model('Category', userSchema)
+const UserCollection = mongoose.model('User', userSchema)
 
 export {
     UserCollection

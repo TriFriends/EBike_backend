@@ -5,16 +5,22 @@ const { Schema } = mongoose
 const pageSchema = new Schema({
     path: {
         type: String,
-        required: true
+        required: true,
+        unique: true,
+        trim: true
     },
     content: {
         type: String,
         required: true
     },
-    seoUnit: seoUnitSchema
+    seoUnit: seoUnitSchema,
+    number_of_visit: {
+        type: Number,
+        required: true
+    }
 })
 
-const PageCollection = mongoose.model('Category', pageSchema)
+const PageCollection = mongoose.model('Page', pageSchema)
 
 export {
     PageCollection

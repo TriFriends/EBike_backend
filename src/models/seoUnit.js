@@ -4,7 +4,8 @@ const { Schema } = mongoose
 const seoUnitSchema = new Schema({
     title: {
         type: String,
-        required: true
+        required: true,
+        unique: true
     },
     keywords: [{
         type: String,

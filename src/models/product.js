@@ -22,7 +22,8 @@ const deliveryOptionSchema = new Schema({
 const productSchema = new Schema({
     product_identifier: {
         type: String,
-        required: true
+        required: true,
+        unique: true
     },
     type: {
         type: String,
