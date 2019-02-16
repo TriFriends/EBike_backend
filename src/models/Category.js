@@ -4,7 +4,8 @@ import { productSchema } from './product'
 
 const categorySchema = new Schema({
     name: {
-
+        type: String,
+        required: true
     },
     products: [productSchema]
 })

@@ -5,22 +5,28 @@ const { Schema } = mongoose
 
 const userSchema = new Schema({
     user_identifier: {
-
+        type: String,
+        required: true
     },
     name: {
-
+        type: String,
+        required: true
     },
     lastname: {
-
+        type: String,
+        required: true
     },
     account_type: {
-
+        type: String,
+        required: true
     },
     email: {
-
+        type: String,
+        required: true
     },
     phone: {
-
+        type: String,
+        required: true
     },
     orders: [order],
     address: [adressSchema]

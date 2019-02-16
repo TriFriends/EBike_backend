@@ -4,10 +4,12 @@ const { Schema } = mongoose
 
 const pageSchema = new Schema({
     path: {
-
+        type: String,
+        required: true
     },
     content: {
-
+        type: String,
+        required: true
     },
     seoUnit: seoUnitSchema
 })
