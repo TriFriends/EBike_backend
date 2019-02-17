@@ -1,4 +1,5 @@
 import { OrderCollection } from '../models/Order'
+import DatabaseRepository from './DatabaseRepository'
 
 class OrderRepository extends DatabaseRepository {
     constructor(source) {
@@ -6,7 +7,7 @@ class OrderRepository extends DatabaseRepository {
     }
 }
 
-export default {
+export {
     OrderRepository,
     OrderCollection
 }

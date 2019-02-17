@@ -3,11 +3,10 @@ const { Schema } = mongoose
 import { productSchema } from './product'
 
 const categorySchema = new Schema({
-    name: {
+    category_name: {
         type: String,
         required: true,
-        unique: true,
-        trim: true
+        unique: true
     },
     products: [productSchema]
 })

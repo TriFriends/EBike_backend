@@ -6,10 +6,9 @@ class DatabaseRepository {
         return new Promise((resolve, reject) => {
             this.source.create(obj, (err, created) => {
                 if (err) {
-                    console.log(err)
-                    reject()
+                    reject(err)
                 }
-                resolve()
+                resolve(created)
             })
         })
     }
@@ -23,9 +22,10 @@ class DatabaseRepository {
             })
         })
     }
-    findByProperty({ name, value }) {
+
+    findOneByQuery(query) {
         return new Promise((resolve, reject) => {
-            this.source.findOne({ [name]: value }, (err, object) => {
+            this.source.findOne(query, (err, object) => {
                 if (err || !object) {
                     console.log(err)
                     reject()
@@ -34,9 +34,21 @@ class DatabaseRepository {
             })
         })
     }
-    updateByProperty({ name, value, newObj }) {
+
+    findByQuery(query) {
         return new Promise((resolve, reject) => {
-            this.source.updateOne({ [name]: value },
+            this.source.findMany(query, (err, object) => {
+                if (err || !object) {
+                    console.log(err)
+                    reject()
+                }
+                resolve(object)
+            })
+        })
+    }
+    updateByQuery({ query, newObj }) {
+        return new Promise((resolve, reject) => {
+            this.source.updateMany(query,
                 { $set: newObj },
                 (err, raw) => {
                     if (err || raw.n == 0) {
@@ -48,9 +60,9 @@ class DatabaseRepository {
         })
     }
 
-    deleteByProperty({ name, value }) {
+    deleteByQuery(query) {
         return new Promise((resolve, reject) => {
-            this.source.deleteOne({ [name]: value }, (err) => {
+            this.source.deleteMany(query, (err) => {
                 if (err) {
                     reject()
                 }
@@ -69,3 +81,5 @@ class DatabaseRepository {
     }
 
 }
+
+export default DatabaseRepository

@@ -1,4 +1,5 @@
 import { UserCollection } from '../models/User'
+import DatabaseRepository from './DatabaseRepository'
 
 class UserRepository extends DatabaseRepository {
     constructor(source) {
@@ -6,7 +7,7 @@ class UserRepository extends DatabaseRepository {
     }
 }
 
-export default {
+export {
     UserRepository,
     UserCollection
 }

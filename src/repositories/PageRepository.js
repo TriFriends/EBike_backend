@@ -1,4 +1,5 @@
 import { PageCollection } from '../models/Page'
+import DatabaseRepository from './DatabaseRepository'
 
 class PageRepository extends DatabaseRepository {
     constructor(source) {
@@ -6,7 +7,7 @@ class PageRepository extends DatabaseRepository {
     }
 }
 
-export default {
+export {
     PageRepository,
     PageCollection
 }

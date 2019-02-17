@@ -5,7 +5,7 @@ const seoUnitSchema = new Schema({
     title: {
         type: String,
         required: true,
-        unique: true
+        sparse: true
     },
     keywords: [{
         type: String,

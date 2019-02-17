@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --require js:@babel/register",
+    "test": "nodemon --watch test --exec 'mocha --compilers js:@babel/register --recursive test'",
     "dev": "nodemon --exec babel-node ./src/index.js",
     "build": "babel src --out-dir ./dist --source-maps",
     "start": "node ./dist/index.js"
@@ -27,6 +27,8 @@
     "@babel/register": "^7.0.0",
     "chai": "^4.2.0",
     "mocha": "^5.2.0",
-    "nodemon": "^1.18.10"
+    "nodemon": "^1.18.10",
+    "sinon": "^7.2.3",
+    "sinon-mongoose": "^2.2.1"
   }
 }

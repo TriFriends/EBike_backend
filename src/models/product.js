@@ -31,7 +31,8 @@ const productSchema = new Schema({
     },
     name: {
         type: String,
-        required: true
+        required: true,
+        unique: true
     },
     description: {
         type: String,
@@ -42,7 +43,7 @@ const productSchema = new Schema({
         required: true
     },
     typeOfUnit: {
-        type: String,
+        type: Object,
         required: true
     },
     seoUnit: seoUnitSchema,
@@ -51,7 +52,8 @@ const productSchema = new Schema({
     deliveryOption: [deliveryOptionSchema],
     units_in_magazine: {
         type: Number,
-        required: true
+        required: true,
+        default: 0
     },
     tags: [{
         type: String,
@@ -59,12 +61,22 @@ const productSchema = new Schema({
     }],
     hero_image: {
         type: String,
-        required: true
+        required: true,
+        default: 'https://cdn2.iconfinder.com/data/icons/large-svg-icons/512/dropbox_folder_box_square-512.png'
     },
     images: [{
-        type: String,
-        required: true
-    }]
+        type: String
+    }],
+    requests: {
+        type: Number,
+        required: true,
+        default: 0
+    },
+    bought: {
+        type: Number,
+        required: true,
+        default: 0
+    }
 })
 
 export {

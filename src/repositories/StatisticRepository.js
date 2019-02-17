@@ -1,4 +1,5 @@
 import { StatisticCollection } from '../models/Statistic'
+import DatabaseRepository from './DatabaseRepository'
 
 class StatisticRepository extends DatabaseRepository {
     constructor(source) {
@@ -6,7 +7,7 @@ class StatisticRepository extends DatabaseRepository {
     }
 }
 
-export default {
+export {
     StatisticRepository,
     StatisticCollection
 }
