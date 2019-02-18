@@ -8,12 +8,12 @@ class CategoryRepository extends DatabaseRepository {
 
     onInit() {
         super.add({
-            category_name: 'Testowo'
+            category_name: 'Tdwojka'
         })
         let product = {
             product_identifier: '00123AFD',
             type: 'Selling',
-            name: 'Xiaomi Mi6 6GB RAM 64GB',
+            name: 'Xiao22mi Mi6 6GB RAM 64GB',
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.',
             price: 1100,
             typeOfUnit: {
@@ -31,7 +31,7 @@ class CategoryRepository extends DatabaseRepository {
             // }],
         }
         this.addProduct({
-            category_name: 'Testowo',
+            category_name: 'Tdwojka',
             product
         })
     }
@@ -47,28 +47,36 @@ class CategoryRepository extends DatabaseRepository {
                     }
                     resolve(raw)
                 }
-            )
+            ).select()
         })
     }
 
-    findPopularProducts({ category_name, limit }) {
+    findPopularProducts({ category_name, limit, sort }) {
         return new Promise((resolve, reject) => {
-            if (category) {
+            if (category_name) {
                 CategoryCollection.aggregate([
                     { $unwind: "$products" },
-                    { $sort: { requests: 1 } },
-                    { $limit: limit }
+                    { $match: { category_name } },
+                    { $sort: sort },
+                    { $limit: limit },
+                    { $replaceRoot: { newRoot: "$products" } },
+                    { $project: { _id: 0, name: 1, price: 1, typeOfUnit: 1, hero_image: 1, bought: 1 } }
                 ]).then(result => {
                     resolve(result)
+                }).catch((err) => {
+                    reject(err)
                 })
             } else {
                 CategoryCollection.aggregate([
                     { $unwind: "$products" },
-                    { $match: { category_name } },
-                    { $sort: { requests: 1 } },
-                    { $limit: limit }
+                    { $sort: sort },
+                    { $limit: limit },
+                    { $replaceRoot: { newRoot: "$products" } },
+                    { $project: { _id: 0, name: 1, price: 1, typeOfUnit: 1, hero_image: 1, bought: 1 } }
                 ]).then(result => {
                     resolve(result)
+                }).catch((err) => {
+                    reject(err)
                 })
             }
         })

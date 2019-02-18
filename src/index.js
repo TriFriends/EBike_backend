@@ -11,8 +11,8 @@ const router = express.Router()
 
 dbConfig(process.env.MONGO_URI || 'mongodb://localhost:27017/smartlend')
 
-const categoryRepository = new CategoryRepository(CategoryCollection)
-categoryRepository.onInit()
+// const categoryRepository = new CategoryRepository(CategoryCollection)
+// categoryRepository.onInit()
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }))
