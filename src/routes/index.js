@@ -18,22 +18,21 @@ export default router => {
             pageRepository.findAll(),
             categoryRepository.findPopularProducts({
                 limit: 3,
-                sort: { "products.requests": -1, "products.bought": -1 }
-            }),
-            categoryRepository.findPopularProducts({
-                limit: 3,
                 sort: { "products.bought": -1, "products.requests": -1 }
             })
         ])
         console.log(combineData)
         combineData = {
             categories: combineData[0],
-            pages: combineData[1],
-            popular: combineData[2],
-            most_bought: combineData[3]
+            popular: combineData[2]
         }
         console.log(combineData)
         res.send(combineData)
+    })
+
+    router.get("/pages", async (req, res) => {
+        let pages = await pageRepository.findAll()
+        res.send(pages)
     })
 
     router.get("/category/:category_name", (req, res) => {
