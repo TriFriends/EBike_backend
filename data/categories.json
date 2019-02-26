@@ -13,7 +13,25 @@
                     "plural": "sztuki"
                 },
                 "requests": 1238,
-                "bought": 12
+                "bought": 12,
+                "reviews": [
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 3
+                    }
+                ]
             },
             {
                 "product_identifier": "00123AFF",
@@ -39,7 +57,41 @@
                     "plural": "sztuki"
                 },
                 "requests": 1800,
-                "bought": 36
+                "bought": 36,
+                "reviews": [
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 2
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 3
+                    }
+                ]
             }
         ]
     },
@@ -57,7 +109,65 @@
                     "plural": "sztuki"
                 },
                 "requests": 1800,
-                "bought": 36
+                "bought": 36,
+                "reviews": [
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    }
+                ]
             },
             {
                 "product_identifier": "00123DFG",
@@ -70,7 +180,33 @@
                     "plural": "sztuki"
                 },
                 "requests": 1289,
-                "bought": 22
+                "bought": 22,
+                "reviews": [
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    }
+                ]
             },
             {
                 "product_identifier": "00123DFG",
@@ -83,7 +219,177 @@
                     "plural": "sztuki"
                 },
                 "requests": 2344,
-                "bought": 52
+                "bought": 52,
+                "reviews": [
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    }
+                ]
             },
             {
                 "product_identifier": "00123DFG",
@@ -96,7 +402,69 @@
                     "plural": "sztuki"
                 },
                 "requests": 2300,
-                "bought": 36
+                "bought": 36,
+                "reviews": [
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    }
+                ]
             },
             {
                 "product_identifier": "00123DFG",
@@ -122,7 +490,169 @@
                     "plural": "sztuki"
                 },
                 "requests": 6000,
-                "bought": 68
+                "bought": 68,
+                "reviews": [
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    }
+                ]
             },
             {
                 "product_identifier": "00123DFG",
@@ -148,7 +678,429 @@
                     "plural": "sztuki"
                 },
                 "requests": 12000,
-                "bought": 66
+                "bought": 66,
+                "reviews": [
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 1
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 1
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 1
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    }
+                ]
             },
             {
                 "product_identifier": "00123DFG",
@@ -161,7 +1113,417 @@
                     "plural": "sztuki"
                 },
                 "requests": 5200,
-                "bought": 120
+                "bought": 120,
+                "reviews": [
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 1
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 1
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 1
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    }
+                ]
             },
             {
                 "product_identifier": "00123DFG",
@@ -174,7 +1536,169 @@
                     "plural": "sztuki"
                 },
                 "requests": 1800,
-                "bought": 36
+                "bought": 36,
+                "reviews": [
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    }
+                ]
             },
             {
                 "product_identifier": "00123DFG",
@@ -187,7 +1711,169 @@
                     "plural": "sztuki"
                 },
                 "requests": 3400,
-                "bought": 64
+                "bought": 64,
+                "reviews": [
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "AA2BD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "AABD2",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "AABD1",
+                        "grade": 4
+                    }
+                ]
             },
             {
                 "product_identifier": "00123DFG",
@@ -218,7 +1904,17 @@
                     "plural": "sztuki"
                 },
                 "requests": 545,
-                "bought": 12
+                "bought": 12,
+                "reviews": [
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    }
+                ]
             },
             {
                 "product_identifier": "00123DFG",
@@ -244,7 +1940,41 @@
                     "plural": "sztuki"
                 },
                 "requests": 2456,
-                "bought": 36
+                "bought": 36,
+                "reviews": [
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 2
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    }
+                ]
             },
             {
                 "product_identifier": "00123DFG",
@@ -257,7 +1987,25 @@
                     "plural": "sztuki"
                 },
                 "requests": 523,
-                "bought": 13
+                "bought": 13,
+                "reviews":[
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 3
+                    }
+                ]
             },
             {
                 "product_identifier": "00123DFG",
@@ -270,7 +2018,13 @@
                     "plural": "sztuki"
                 },
                 "requests": 1840,
-                "bought": 45
+                "bought": 5,
+                "reviews":[
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    }
+                ]
             }
         ]
     },
@@ -288,7 +2042,21 @@
                     "plural": "sztuki"
                 },
                 "requests": 545,
-                "bought": 12
+                "bought": 12,
+                "reviews":[
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 3
+                    }
+                ]
             },
             {
                 "product_identifier": "00123DFG",
@@ -301,7 +2069,7 @@
                     "plural": "sztuki"
                 },
                 "requests": 545,
-                "bought": 12
+                "bought": 1
             },
             {
                 "product_identifier": "00123DFG",
@@ -314,7 +2082,7 @@
                     "plural": "sztuki"
                 },
                 "requests": 545,
-                "bought": 12
+                "bought": 2
             },
             {
                 "product_identifier": "00123DFG",
@@ -327,7 +2095,7 @@
                     "plural": "sztuki"
                 },
                 "requests": 545,
-                "bought": 12
+                "bought": 1
             },
             {
                 "product_identifier": "00123DFG",
@@ -340,7 +2108,7 @@
                     "plural": "sztuki"
                 },
                 "requests": 545,
-                "bought": 12
+                "bought": 4
             },
             {
                 "product_identifier": "00123DFG",
@@ -353,7 +2121,7 @@
                     "plural": "sztuki"
                 },
                 "requests": 545,
-                "bought": 12
+                "bought": 8
             }
         ]
     },
@@ -397,7 +2165,137 @@
                     "plural": "sztuki"
                 },
                 "requests": 1200,
-                "bought": 33
+                "bought": 33,
+                "reviews":[
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 2
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 3
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 4
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    },
+                    {
+                        "user_identifier": "MASDD",
+                        "grade": 5
+                    }
+                ]
             },
             {
                 "product_identifier": "00123DFG",

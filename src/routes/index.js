@@ -21,12 +21,11 @@ export default router => {
                 sort: { "products.bought": -1, "products.requests": -1 }
             })
         ])
-        console.log(combineData)
         combineData = {
             categories: combineData[0],
             popular: combineData[2]
         }
-        console.log(combineData)
+        console.log(combineData.popular)
         res.send(combineData)
     })
 

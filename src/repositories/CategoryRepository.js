@@ -76,7 +76,7 @@ class CategoryRepository extends DatabaseRepository {
                     { $sort: sort },
                     { $limit: limit },
                     { $replaceRoot: { newRoot: "$products" } },
-                    { $project: { _id: 0, name: 1, price: 1, typeOfUnit: 1, hero_image: 1, bought: 1 } }
+                    { $project: { _id: 0, name: 1, price: 1, typeOfUnit: 1, hero_image: 1, bought: 1, requets: 1, average_rate: { $avg: "$reviews.grade" } } }
                 ]).then(result => {
                     resolve(result)
                 }).catch((err) => {
@@ -88,7 +88,7 @@ class CategoryRepository extends DatabaseRepository {
                     { $sort: sort },
                     { $limit: limit },
                     { $replaceRoot: { newRoot: "$products" } },
-                    { $project: { _id: 0, name: 1, price: 1, typeOfUnit: 1, hero_image: 1, bought: 1 } }
+                    { $project: { _id: 0, name: 1, price: 1, typeOfUnit: 1, hero_image: 1, bought: 1, requests: 1, average_rate: { $avg: "$reviews.grade" } } }
                 ]).then(result => {
                     resolve(result)
                 }).catch((err) => {
