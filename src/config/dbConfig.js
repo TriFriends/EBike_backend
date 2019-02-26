@@ -1,4 +1,5 @@
 import mongoose from 'mongoose'
+import loadData from './loadDataToDatabase'
 
 export default (uri) => {
     mongoose.connect(uri, { useNewUrlParser: true, useCreateIndex: true }, (err) => {
@@ -7,5 +8,6 @@ export default (uri) => {
             process.exit(1)
         }
         console.log(`Connect to mongodb instance: ${uri}`)
+        loadData()
     })
 }

@@ -14,8 +14,8 @@ dbConfig(process.env.MONGO_URI || 'mongodb://localhost:27017/smartlend')
 
 const categoryRepository = new CategoryRepository(CategoryCollection)
 categoryRepository.onInit()
-const pageRepository = new PageRepository(PageCollection)
-pageRepository.onInit()
+// const pageRepository = new PageRepository(PageCollection)
+// pageRepository.onInit()
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }))

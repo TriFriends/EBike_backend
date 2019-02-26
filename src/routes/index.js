@@ -17,7 +17,7 @@ export default router => {
             categoryRepository.findAll(),
             pageRepository.findAll(),
             categoryRepository.findPopularProducts({
-                limit: 3,
+                limit: 8,
                 sort: { "products.bought": -1, "products.requests": -1 }
             })
         ])

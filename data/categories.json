@@ -1,0 +1,499 @@
+[
+    {
+        "category_name": "Dyski",
+        "products": [
+            {
+                "product_identifier": "00123AFD",
+                "type": "Selling",
+                "name": "Dysk SSD ADATA SU800 512GB SATA3",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 249,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 1238,
+                "bought": 12
+            },
+            {
+                "product_identifier": "00123AFF",
+                "type": "Selling",
+                "name": "Dysk SSD Kingston UV500 240GB SATA3",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 229,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 100,
+                "bought": 2
+            },
+            {
+                "product_identifier": "00123AFG",
+                "type": "Selling",
+                "name": "Dysk Seagate BarraCuda 1TB 6Gb/s SATA",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 222,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 1800,
+                "bought": 36
+            }
+        ]
+    },
+    {
+        "category_name": "Komputery",
+        "products": [
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Komputer ExpressCLD Light",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 2200,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 1800,
+                "bought": 36
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Komputer Express Italic",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 4500,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 1289,
+                "bought": 22
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Komputer Express Bold",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 3400,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 2344,
+                "bought": 52
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Komputer ExpressCCC MD",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 2900,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 2300,
+                "bought": 36
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Komputer ExpressCLD MAX",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 5000,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 860,
+                "bought": 16
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Komputer ExpressCLD PRO",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 4500,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 6000,
+                "bought": 68
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Komputer Express PRO",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 4200,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 120,
+                "bought": 2
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Komputer ExpressCLD MDM",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 3500,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 12000,
+                "bought": 66
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Komputer ExpressCLD Light",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 2350,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 5200,
+                "bought": 120
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Komputer ExpressCLD Light 2",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 2500,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 1800,
+                "bought": 36
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Komputer ExpressCLD KBK",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 3200,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 3400,
+                "bought": 64
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Komputer ExpressCLD GAME PRO",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 5600,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 1200,
+                "bought": 7
+            }
+        ]
+    },
+    {
+        "category_name": "Pamięci RAM",
+        "products": [
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Pamięć GoodRam IRDM, DDR4, 8 GB,2400MHz, CL15",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 440,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 545,
+                "bought": 12
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Pamięć ADATA DDR4, 8 GB,2666MHz, CL16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 522,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 123,
+                "bought": 2
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Pamięć HyperX Fury, DDR4, 8 GB,2666MHz, CL15",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 500,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 2456,
+                "bought": 36
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Pamięć Corsair Vengeance RGB PRO, DDR4, 16 GB,3200MHz, CL16",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 269,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 523,
+                "bought": 13
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Pamięć Corsair Vengeance LPX, DDR4, 16 GB,3000MHz, CL15",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 266,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 1840,
+                "bought": 45
+            }
+        ]
+    },
+    {
+        "category_name": "Myszki",
+        "products": [
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Mysz Logitech G102 Prodigy",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 440,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 545,
+                "bought": 12
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Mysz HyperX Pulsefire Surge RGB",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 440,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 545,
+                "bought": 12
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Mysz Razer Naga Trinit",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 440,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 545,
+                "bought": 12
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Mysz Sharkoon Skiller SGM2",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 440,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 545,
+                "bought": 12
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Mysz MODECOM Volcano GMX5 Beast",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 440,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 545,
+                "bought": 12
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Mysz A4 Tech Bloody V8m",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 440,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 545,
+                "bought": 12
+            }
+        ]
+    },
+    {
+        "category_name": "Procesory",
+        "products": [
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Procesor AMD Ryzen 3 2200G, 3.5GHz, 4MB",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 1440,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 545,
+                "bought": 12
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Procesor AMD Ryzen 5 2600 3.9GHz, 16MB, BOX",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 1240,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 300,
+                "bought": 11
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Procesor Intel Core i5-9400F, 2.90GHz, 9MB, BOX",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 920,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 1200,
+                "bought": 33
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Procesor Intel Core i5-9600K, Hexa Core, 3.7GHz, 9MB,14mn, BOX",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 1340,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 344,
+                "bought": 9
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Procesor Intel Core i3-8350K, 4GHz, 8MB, BOX ",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 740,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 567,
+                "bought": 15
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Procesor Intel Core i5-8400, 2.80GHz, 9MB, BOX",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 440,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 545,
+                "bought": 12
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Procesor Intel Core i5-8600K, 3.60GHz, 9MB, BOX",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 440,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 545,
+                "bought": 12
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Procesor AMD Ryzen 3 2200G, 3.5GHz, 4MB",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 440,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 545,
+                "bought": 12
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Procesor AMD Ryzen 3 2200G, 3.5GHz, 4MB",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 440,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 545,
+                "bought": 12
+            },
+            {
+                "product_identifier": "00123DFG",
+                "type": "Selling",
+                "name": "Procesor Intel Core i7-8700K, Hexa Core, 3.70GHz, 12MB, LGA1151, 14nm, BOX",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
+                "price": 440,
+                "typeOfUnit": {
+                    "singular": "sztuka",
+                    "plural": "sztuki"
+                },
+                "requests": 545,
+                "bought": 12
+            }
+        ]
+    },
+    {
+        "category_name": "Karty Graficzne",
+        "products": []
+    }
+]
