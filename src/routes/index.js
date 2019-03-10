@@ -35,11 +35,29 @@ export default router => {
     })
 
     router.get("/category/:category_name", (req, res) => {
-
+        let { category_name } = req.params
+        categoryRepository.findOneByQuery({
+            query: {
+                category_name
+            },
+            parameters: {
+                _id: 0
+            }
+        }).then((category) => {
+            res.send(category)
+        }).catch(() => {
+            res.status(404).send()
+        })
     })
 
     router.get("/category/:category_name/:product", (req, res) => {
-
+        let { category_name, product_name } = req.params
+        categoryRepository.findProductByCategoryAndName({ category_name, product_name })
+            .then((category) => {
+                res.send(category)
+            }).catch(() => {
+                res.status(404).send()
+            })
     })
 
     router.get("/page/:page", (req, res) => {

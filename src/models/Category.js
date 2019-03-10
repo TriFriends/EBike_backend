@@ -8,6 +8,9 @@ const categorySchema = new Schema({
         required: true,
         unique: true
     },
+    icon: {
+        type: String
+    },
     products: [productSchema]
 })
 

@@ -14,7 +14,10 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }))
 app.use(cors())
 
-app.use('/', routes(router))
+
+app.use("/", function (req, res, next) {
+    next()
+}, routes(router))
 
 app.listen(PORT, () => {
     console.log(`Application is running on port ${PORT}`)

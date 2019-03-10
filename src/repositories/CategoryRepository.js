@@ -98,6 +98,33 @@ class CategoryRepository extends DatabaseRepository {
         })
     }
 
+    findProductByCategoryAndName({ category_name, product_name }) {
+        return new Promise((resolve, reject) => {
+            CategoryCollection.findOne({
+                query: {
+                    category_name,
+                    products: {
+                        $elemMatch: {
+                            name: product_name
+                        }
+                    }
+                },
+                parameters: {
+                    _id: 0
+                }
+            }).then((category) => {
+                console.log(category)
+                if (!category) {
+                    reject()
+                }
+                resolve(category)
+            }).catch((err) => {
+                console.log(err)
+                reject()
+            })
+        })
+    }
+
 }
 
 export {

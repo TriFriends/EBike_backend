@@ -23,9 +23,9 @@ class DatabaseRepository {
         })
     }
 
-    findOneByQuery(query) {
+    findOneByQuery({ query, parameters = {} }) {
         return new Promise((resolve, reject) => {
-            this.source.findOne(query, (err, object) => {
+            this.source.findOne(query, parameters, (err, object) => {
                 if (err || !object) {
                     console.log(err)
                     reject()
@@ -35,9 +35,9 @@ class DatabaseRepository {
         })
     }
 
-    findByQuery(query) {
+    findByQuery({ query = {}, parameters = {} }) {
         return new Promise((resolve, reject) => {
-            this.source.findMany(query, (err, object) => {
+            this.source.findMany(query, parameters, (err, object) => {
                 if (err || !object) {
                     console.log(err)
                     reject()
