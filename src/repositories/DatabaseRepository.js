@@ -26,6 +26,7 @@ class DatabaseRepository {
     findOneByQuery({ query, parameters = {} }) {
         return new Promise((resolve, reject) => {
             this.source.findOne(query, parameters, (err, object) => {
+                console.log(object)
                 if (err || !object) {
                     console.log(err)
                     reject()

@@ -36,38 +36,6 @@
                 ]
             },
             {
-                "product_identifier": "00123AFD",
-                "type": "Selling",
-                "name": "Dysk SSD ADATA SU800 512GB SATA3",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
-                "price": 249,
-                "hero_image":"/dyski/dd2.jpg",
-                "typeOfUnit": {
-                    "singular": "sztuka",
-                    "plural": "sztuki"
-                },
-                "requests": 1238,
-                "bought": 12,
-                "reviews": [
-                    {
-                        "user_identifier": "AABD",
-                        "grade": 3
-                    },
-                    {
-                        "user_identifier": "AABD2",
-                        "grade": 5
-                    },
-                    {
-                        "user_identifier": "AABD1",
-                        "grade": 4
-                    },
-                    {
-                        "user_identifier": "AA2BD",
-                        "grade": 3
-                    }
-                ]
-            },
-            {
                 "product_identifier": "00123AFF",
                 "type": "Selling",
                 "name": "Dysk SSD Kingston UV500 240GB SATA3",

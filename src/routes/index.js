@@ -25,17 +25,13 @@ export default router => {
             categories: combineData[0],
             popular: combineData[2]
         }
-        console.log(combineData.popular)
         res.send(combineData)
-    })
-
-    router.get("/pages", async (req, res) => {
-        let pages = await pageRepository.findAll()
-        res.send(pages)
     })
 
     router.get("/category/:category_name", (req, res) => {
         let { category_name } = req.params
+        category_name = replaceDash(category_name)
+        category_name = convertParam(category_name)
         categoryRepository.findOneByQuery({
             query: {
                 category_name
@@ -50,8 +46,13 @@ export default router => {
         })
     })
 
-    router.get("/category/:category_name/:product", (req, res) => {
+    router.get("/category/:category_name/:product_name", (req, res) => {
         let { category_name, product_name } = req.params
+        category_name = replaceDash(category_name)
+        category_name = convertParam(category_name)
+        product_name = replaceDash(product_name)
+        product_name = convertParam(product_name)
+        console.log(category_name, product_name)
         categoryRepository.findProductByCategoryAndName({ category_name, product_name })
             .then((category) => {
                 res.send(category)
@@ -60,9 +61,13 @@ export default router => {
             })
     })
 
-    router.get("/page/:page", (req, res) => {
-
-    })
-
     return router
+}
+
+function replaceDash(string) {
+    return string.replace("-", " ")
+}
+
+function convertParam(parameter) {
+    return new RegExp("^" + parameter.toLowerCase() + "$", "i")
 }
