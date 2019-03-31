@@ -14,7 +14,7 @@ export default router => {
 
     router.get("/", async (req, res) => {
         let combineData = await Promise.all([
-            categoryRepository.findAll(),
+            categoryRepository.findAll({ _id: 0, products: 0 }),
             pageRepository.findAll(),
             categoryRepository.findPopularProducts({
                 limit: 8,
@@ -28,7 +28,13 @@ export default router => {
         res.send(combineData)
     })
 
-    router.get("/category/:category_name", (req, res) => {
+    router.get("/categories", (req, res) => {
+        res.send({
+            categories: categoryRepository.findAll({ _id: 0, products: 0 })
+        })
+    })
+
+    router.get("/:category_name", (req, res) => {
         let { category_name } = req.params
         category_name = replaceDash(category_name)
         category_name = convertParam(category_name)
@@ -46,7 +52,7 @@ export default router => {
         })
     })
 
-    router.get("/category/:category_name/:product_name", (req, res) => {
+    router.get("/:category_name/:product_name", (req, res) => {
         let { category_name, product_name } = req.params
         category_name = replaceDash(category_name)
         category_name = convertParam(category_name)

@@ -12,9 +12,9 @@ class DatabaseRepository {
             })
         })
     }
-    findAll() {
+    findAll(parameters = { _id: 0 }) {
         return new Promise((resolve, reject) => {
-            this.source.find({}, (err, docs) => {
+            this.source.find({}, parameters, (err, docs) => {
                 if (err) {
                     reject()
                 }

@@ -9,7 +9,7 @@
                 "name": "Dysk SSD ADATA SU800 512GB SATA3",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 249,
-                "hero_image":"/dyski/dd1.jpg",
+                "hero_image": "/dyski/dd1.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -41,7 +41,7 @@
                 "name": "Dysk SSD Kingston UV500 240GB SATA3",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 229,
-                "hero_image":"/dyski/dd3.jpg",
+                "hero_image": "/dyski/dd3.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -55,7 +55,7 @@
                 "name": "Dysk Seagate BarraCuda 1TB 6Gb/s SATA",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 222,
-                "hero_image":"/dyski/dd4.jpg",
+                "hero_image": "/dyski/dd4.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -101,7 +101,7 @@
     },
     {
         "category_name": "Komputery",
-        "icon":"/categories/computer-screen.svg",
+        "icon": "/categories/computer-screen.svg",
         "products": [
             {
                 "product_identifier": "00123DFG",
@@ -109,7 +109,7 @@
                 "name": "Komputer ExpressCLD Light",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 2200,
-                "hero_image":"/computers/kk1.jpg",
+                "hero_image": "/computers/kk1.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -181,7 +181,7 @@
                 "name": "Komputer Express Italic",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 4500,
-                "hero_image":"/computers/kk2.jpg",
+                "hero_image": "/computers/kk2.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -221,7 +221,7 @@
                 "name": "Komputer Express Bold",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 3400,
-                "hero_image":"/computers/kk3.jpg",
+                "hero_image": "/computers/kk3.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -405,7 +405,7 @@
                 "name": "Komputer ExpressCCC MD",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 2900,
-                "hero_image":"/computers/kk4.jpg",
+                "hero_image": "/computers/kk4.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -481,7 +481,7 @@
                 "name": "Komputer ExpressCLD MAX",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 5000,
-                "hero_image":"/computers/kk5.jpg",
+                "hero_image": "/computers/kk5.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -495,7 +495,7 @@
                 "name": "Komputer ExpressCLD PRO",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 4500,
-                "hero_image":"/computers/kk7.jpg",
+                "hero_image": "/computers/kk7.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -671,7 +671,7 @@
                 "name": "Komputer Express PRO",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 4200,
-                "hero_image":"/computers/kk8.jpg",
+                "hero_image": "/computers/kk8.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -685,7 +685,7 @@
                 "name": "Komputer ExpressCLD MDM",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 3500,
-                "hero_image":"/computers/kk9.jpg",
+                "hero_image": "/computers/kk9.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -1121,7 +1121,7 @@
                 "name": "Komputer ExpressCLD Light",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 2350,
-                "hero_image":"/computers/kk10.jpg",
+                "hero_image": "/computers/kk10.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -1545,7 +1545,7 @@
                 "name": "Komputer ExpressCLD Light 2",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 2500,
-                "hero_image":"/computers/kk11.jpg",
+                "hero_image": "/computers/kk11.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -1721,7 +1721,7 @@
                 "name": "Komputer ExpressCLD KBK",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 3200,
-                "hero_image":"/computers/kk12.jpg",
+                "hero_image": "/computers/kk12.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -1897,7 +1897,7 @@
                 "name": "Komputer ExpressCLD GAME PRO",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 5600,
-                "hero_image":"/computers/kk13.jpg",
+                "hero_image": "/computers/kk13.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -1909,7 +1909,7 @@
     },
     {
         "category_name": "Pamięci RAM",
-        "icon":"/categories/random-access-memory-chip.svg",
+        "icon": "/categories/random-access-memory-chip.svg",
         "products": [
             {
                 "product_identifier": "00123DFG",
@@ -1917,7 +1917,7 @@
                 "name": "Pamięć GoodRam IRDM, DDR4, 8 GB,2400MHz, CL15",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 440,
-                "hero_image":"/pamiecie_ram/rr1.jpg",
+                "hero_image": "/pamiecie_ram/rr1.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -1941,7 +1941,7 @@
                 "name": "Pamięć ADATA DDR4, 8 GB,2666MHz, CL16",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 522,
-                "hero_image":"/pamiecie_ram/rr2.jpg",
+                "hero_image": "/pamiecie_ram/rr2.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -1955,7 +1955,7 @@
                 "name": "Pamięć HyperX Fury, DDR4, 8 GB,2666MHz, CL15",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 500,
-                "hero_image":"/pamiecie_ram/rr3.jpeg",
+                "hero_image": "/pamiecie_ram/rr3.jpeg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -2003,14 +2003,14 @@
                 "name": "Pamięć Corsair Vengeance RGB PRO, DDR4, 16 GB,3200MHz, CL16",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 269,
-                "hero_image":"/pamiecie_ram/rr4.jpg",
+                "hero_image": "/pamiecie_ram/rr4.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
                 },
                 "requests": 523,
                 "bought": 13,
-                "reviews":[
+                "reviews": [
                     {
                         "user_identifier": "MASDD",
                         "grade": 5
@@ -2035,14 +2035,14 @@
                 "name": "Pamięć Corsair Vengeance LPX, DDR4, 16 GB,3000MHz, CL15",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 266,
-                "hero_image":"/pamiecie_ram/rr5.jpg",
+                "hero_image": "/pamiecie_ram/rr5.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
                 },
                 "requests": 1840,
                 "bought": 5,
-                "reviews":[
+                "reviews": [
                     {
                         "user_identifier": "MASDD",
                         "grade": 5
@@ -2053,7 +2053,7 @@
     },
     {
         "category_name": "Myszki",
-        "icon":"/categories/mouse.svg",
+        "icon": "/categories/mouse.svg",
         "products": [
             {
                 "product_identifier": "00123DFG",
@@ -2061,14 +2061,14 @@
                 "name": "Mysz Logitech G102 Prodigy",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 440,
-                "hero_image":"/myszki/mm1.jpg",
+                "hero_image": "/myszki/mm1.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
                 },
                 "requests": 545,
                 "bought": 12,
-                "reviews":[
+                "reviews": [
                     {
                         "user_identifier": "MASDD",
                         "grade": 5
@@ -2089,7 +2089,7 @@
                 "name": "Mysz HyperX Pulsefire Surge RGB",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 440,
-                "hero_image":"/myszki/mm2.jpg",
+                "hero_image": "/myszki/mm2.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -2103,7 +2103,7 @@
                 "name": "Mysz Razer Naga Trinit",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 440,
-                "hero_image":"/myszki/mm3.jpg",
+                "hero_image": "/myszki/mm3.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -2117,7 +2117,7 @@
                 "name": "Mysz Sharkoon Skiller SGM2",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 440,
-                "hero_image":"/myszki/mm4.jpg",
+                "hero_image": "/myszki/mm4.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -2131,7 +2131,7 @@
                 "name": "Mysz MODECOM Volcano GMX5 Beast",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 440,
-                "hero_image":"/myszki/mm5.jpg",
+                "hero_image": "/myszki/mm5.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -2145,7 +2145,7 @@
                 "name": "Mysz A4 Tech Bloody V8m",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 440,
-                "hero_image":"/myszki/mm6.jpg",
+                "hero_image": "/myszki/mm6.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -2157,7 +2157,7 @@
     },
     {
         "category_name": "Procesory",
-        "icon":"/categories/chip.svg",
+        "icon": "/categories/chip.svg",
         "products": [
             {
                 "product_identifier": "00123DFG",
@@ -2165,7 +2165,7 @@
                 "name": "Procesor AMD Ryzen 3 2200G, 3.5GHz, 4MB",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 1440,
-                "hero_image":"/procesory/pp1.jpg",
+                "hero_image": "/procesory/pp1.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -2179,7 +2179,7 @@
                 "name": "Procesor AMD Ryzen 5 2600 3.9GHz, 16MB, BOX",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 1240,
-                "hero_image":"/procesory/pp2.jpg",
+                "hero_image": "/procesory/pp2.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -2193,14 +2193,14 @@
                 "name": "Procesor Intel Core i5-9400F, 2.90GHz, 9MB, BOX",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 920,
-                "hero_image":"/procesory/pp3.jpg",
+                "hero_image": "/procesory/pp3.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
                 },
                 "requests": 1200,
                 "bought": 33,
-                "reviews":[
+                "reviews": [
                     {
                         "user_identifier": "MASDD",
                         "grade": 5
@@ -2337,7 +2337,7 @@
                 "name": "Procesor Intel Core i5-9600K, Hexa Core, 3.7GHz, 9MB,14mn, BOX",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 1340,
-                "hero_image":"/procesory/pp4.jpg",
+                "hero_image": "/procesory/pp4.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -2351,7 +2351,7 @@
                 "name": "Procesor Intel Core i3-8350K, 4GHz, 8MB, BOX ",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 740,
-                "hero_image":"/procesory/pp5.jpg",
+                "hero_image": "/procesory/pp5.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -2365,7 +2365,7 @@
                 "name": "Procesor Intel Core i5-8400, 2.80GHz, 9MB, BOX",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 440,
-                "hero_image":"/procesory/pp7.jpg",
+                "hero_image": "/procesory/pp7.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -2379,7 +2379,7 @@
                 "name": "Procesor Intel Core i5-8600K, 3.60GHz, 9MB, BOX",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 440,
-                "hero_image":"/procesory/pp8.jpg",
+                "hero_image": "/procesory/pp8.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -2393,7 +2393,7 @@
                 "name": "Procesor AMD Ryzen 3 2200G, 3.5GHz, 4MB",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 440,
-                "hero_image":"/procesory/pp9.jpg",
+                "hero_image": "/procesory/pp9.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -2407,7 +2407,7 @@
                 "name": "Procesor AMD Ryzen 3 2200G, 3.5GHz, 4MB",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 440,
-                "hero_image":"/procesory/pp10.jpg",
+                "hero_image": "/procesory/pp10.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -2421,7 +2421,7 @@
                 "name": "Procesor Intel Core i7-8700K, Hexa Core, 3.70GHz, 12MB, LGA1151, 14nm, BOX",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel nisl nec mauris congue convallis. Nullam nec posuere urna. Suspendisse cursus felis non dui volutpat, nec egestas orci facilisis. Ut placerat odio sit amet mauris ultricies, id sollicitudin dui tincidunt. Proin et erat et nisl sagittis auctor nec vel velit. Nam blandit elit nec lorem cursus pulvinar. Curabitur vitae maximus enim, et egestas ipsum. Suspendisse ac nulla mauris. Donec aliquet, magna quis sagittis bibendum, sapien felis ultricies nulla, et lacinia purus velit sed nisi. Integer sodales neque sed feugiat elementum.",
                 "price": 440,
-                "hero_image":"/procesory/pp11.jpg",
+                "hero_image": "/procesory/pp11.jpg",
                 "typeOfUnit": {
                     "singular": "sztuka",
                     "plural": "sztuki"
@@ -2433,7 +2433,7 @@
     },
     {
         "category_name": "Karty Graficzne",
-        "icon":"/categories/gpu.svg",
+        "icon": "/categories/gpu.svg",
         "products": []
     }
 ]
